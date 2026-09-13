@@ -1,0 +1,6 @@
+{
+  "name": "RIVO",
+  "description": "RIVO — chat, files, images and voice. Streaming answers with message branching.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
